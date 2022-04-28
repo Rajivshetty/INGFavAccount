@@ -11,7 +11,7 @@
 	<groupId>com.hcl</groupId>
 	<artifactId>IngAccounts</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<package>war</package>
+	<packaging>war</packaging>
 	<name>IngAccounts</name>
 	<description>Demo project for Spring Boot</description>
 
